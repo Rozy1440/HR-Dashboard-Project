@@ -1,0 +1,1 @@
+The HR Dashboard Power BI Project provides a quick, visual overview of key HR metrics like Attrition Count , Active Employees, Job Satisfaction Rating, Average Age etc. It combines data from multiple HR sources into one interactive dashboard, allowing users to filter and analyze trends easily. It simplifies HR reporting and improves workforce planning.
